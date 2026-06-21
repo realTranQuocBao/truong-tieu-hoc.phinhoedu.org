@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteKey": "truong-th-phin-ho",
+  "locale": "vi-VN",
+  "school": {
+    "name": "Trường PTDTBT Tiểu học Phìn Hồ",
+    "shortName": "TH Phìn Hồ",
+    "level": "Tiểu học",
+    "department": "Phòng Giáo dục và Đào tạo huyện Sìn Hồ",
+    "commune": "xã Phìn Hồ",
+    "district": "Sìn Hồ",
+    "province": "Lai Châu",
+    "schoolYear": "2025 - 2026",
+    "description": "Website thông tin của Trường PTDTBT Tiểu học Phìn Hồ, nơi công khai hoạt động giáo dục, tài liệu pháp lý và các thông tin phục vụ phụ huynh, học sinh, giáo viên."
+  },
+  "contact": {
+    "address": "Bản Seo Lèng 2, xã Phìn Hồ, huyện Sìn Hồ, tỉnh Lai Châu",
+    "phone": "",
+    "email": "",
+    "workingHours": "Thứ Hai - Thứ Sáu, trong giờ hành chính",
+    "mapUrl": ""
+  },
+  "domain": {
+    "primary": "",
+    "canonicalBaseUrl": "",
+    "deployBasePath": "/",
+    "assetBasePath": "assets/"
+  },
+  "branding": {
+    "primaryColor": "#0b5ca8",
+    "secondaryColor": "#b91c1c",
+    "accentColor": "#d97706",
+    "heroImage": "assets/images/crawled/banner-truong-0bded591.jpg",
+    "bannerImage": "assets/images/crawled/banner-truong-0bded591.jpg",
+    "emblem": "assets/images/crawled/12033-quoc-huy-ddbd4a9f.png",
+    "logo": "assets/images/crawled/12033-quoc-huy-ddbd4a9f.png",
+    "favicon": ""
+  },
+  "seo": {
+    "defaultTitle": "Trường PTDTBT Tiểu học Phìn Hồ",
+    "titleTemplate": "%s | Trường PTDTBT Tiểu học Phìn Hồ",
+    "defaultDescription": "Tin tức, công khai, tài liệu, tuyển sinh và thông tin liên hệ của Trường PTDTBT Tiểu học Phìn Hồ."
+  },
+  "featuredDocumentId": "quyet-dinh-thanh-lap-truong",
+  "quickLinks": [
+    { "id": "tuyen-sinh", "label": "Tuyển sinh", "url": "tuyen-sinh.html", "external": false },
+    { "id": "cong-khai", "label": "Công khai", "url": "cong-khai.html", "external": false },
+    { "id": "tai-lieu", "label": "Tài liệu", "url": "tai-lieu.html", "external": false },
+    { "id": "lien-he", "label": "Liên hệ", "url": "lien-he.html", "external": false }
+  ]
+}

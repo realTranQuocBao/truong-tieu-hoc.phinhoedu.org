@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0.0",
+  "categories": [
+    { "id": "van-ban-quan-trong", "label": "Văn bản quan trọng" },
+    { "id": "cong-khai", "label": "Công khai" },
+    { "id": "ke-hoach", "label": "Kế hoạch" },
+    { "id": "bieu-mau", "label": "Biểu mẫu" }
+  ],
+  "items": [
+    {
+      "id": "quyet-dinh-thanh-lap-truong",
+      "title": "Quyết định thành lập lại Trường PTDTBT Tiểu học Phìn Hồ",
+      "categoryId": "van-ban-quan-trong",
+      "documentType": "founding-decision",
+      "file": "assets/docs/quyet-dinh-thanh-lap-truong-ptdtbt-tieu-hoc-phin-ho.pdf",
+      "issuedBy": "UBND huyện Sìn Hồ",
+      "decisionNumber": "1011/QĐ-UBND",
+      "issuedAt": "2021",
+      "publishedAt": "2026-06-21",
+      "description": "Văn bản xác lập cơ sở pháp lý cho việc thành lập lại Trường PTDTBT Tiểu học Phìn Hồ trên cơ sở chuyển đổi Trường Tiểu học Phìn Hồ.",
+      "pinned": true,
+      "showOnHome": true,
+      "showOnAbout": true,
+      "showOnFooter": true,
+      "downloadable": true,
+      "verifiedBy": "T05_FOUNDING_DECISIONS",
+      "fileMeta": {
+        "mimeType": "application/pdf",
+        "sizeBytes": 194648,
+        "sha256": "54D692E61D16D3DFDB9D1B1B6AFB01A435EC1C93B09181E2EDA579646CEB64F2"
+      }
+    },
+    {
+      "id": "cong-khai-thong-tin-co-so-giao-duc",
+      "title": "Công khai thông tin chung về cơ sở giáo dục",
+      "categoryId": "cong-khai",
+      "documentType": "public-disclosure",
+      "file": "",
+      "issuedBy": "Nhà trường",
+      "decisionNumber": "",
+      "issuedAt": "",
+      "publishedAt": "",
+      "description": "Mục dành cho thông tin công khai về điều kiện bảo đảm chất lượng, đội ngũ, chương trình giáo dục và các nội dung theo quy định. Tệp sẽ được cập nhật sau khi nhà trường bàn giao bản chính thức.",
+      "pinned": false,
+      "downloadable": false
+    },
+    {
+      "id": "ke-hoach-nam-hoc",
+      "title": "Kế hoạch năm học",
+      "categoryId": "ke-hoach",
+      "documentType": "plan",
+      "file": "",
+      "issuedBy": "Nhà trường",
+      "decisionNumber": "",
+      "issuedAt": "",
+      "publishedAt": "",
+      "description": "Khu vực lưu kế hoạch năm học, kế hoạch chuyên môn và các tài liệu điều hành đã được duyệt.",
+      "pinned": false,
+      "downloadable": false
+    }
+  ]
+}

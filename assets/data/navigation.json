@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "items": [
+    { "id": "home", "label": "Trang chủ", "href": "index.html", "order": 10, "visible": true },
+    { "id": "about", "label": "Giới thiệu", "href": "gioi-thieu.html", "order": 20, "visible": true },
+    { "id": "news", "label": "Tin tức", "href": "tin-tuc.html", "order": 30, "visible": true },
+    { "id": "public", "label": "Công khai", "href": "cong-khai.html", "order": 40, "visible": true },
+    { "id": "documents", "label": "Tài liệu", "href": "tai-lieu.html", "order": 50, "visible": true },
+    { "id": "admissions", "label": "Tuyển sinh", "href": "tuyen-sinh.html", "order": 60, "visible": true },
+    { "id": "gallery", "label": "Thư viện ảnh", "href": "thu-vien-anh.html", "order": 70, "visible": true },
+    { "id": "contact", "label": "Liên hệ", "href": "lien-he.html", "order": 80, "visible": true }
+  ],
+  "footerGroups": [
+    {
+      "id": "main",
+      "title": "Nội dung chính",
+      "itemIds": ["about", "news", "public", "documents"]
+    },
+    {
+      "id": "family",
+      "title": "Phụ huynh",
+      "itemIds": ["admissions", "gallery", "contact"]
+    }
+  ]
+}

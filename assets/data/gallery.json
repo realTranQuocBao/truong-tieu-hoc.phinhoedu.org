@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0.0",
+  "albums": [
+    {
+      "id": "lop-hoc-vung-cao",
+      "title": "Lớp học vùng cao",
+      "slug": "lop-hoc-vung-cao",
+      "description": "Không gian học tập, sinh hoạt chuyên môn và các hoạt động thường ngày của nhà trường.",
+      "coverImage": "assets/images/crawled/z7077493507880-786454372e3bc129e839787be0dcdb70-9de91-6e19efba.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": true,
+      "images": [
+        {
+          "id": "lop-hoc-vung-cao-01",
+          "src": "assets/images/crawled/z7077493507880-786454372e3bc129e839787be0dcdb70-9de91-6e19efba.jpg",
+          "alt": "Hoạt động họp chuyên môn tại Trường PTDTBT Tiểu học Phìn Hồ",
+          "caption": "Ảnh hoạt động thực tế đã lưu cục bộ từ nguồn dữ liệu cũ."
+        }
+      ]
+    },
+    {
+      "id": "hoat-dong-hoc-sinh",
+      "title": "Hoạt động học sinh",
+      "slug": "hoat-dong-hoc-sinh",
+      "description": "Các hoạt động vui chơi, rèn nền nếp, vệ sinh trường lớp và sinh hoạt tập thể.",
+      "coverImage": "assets/images/crawled/2023-11-03-02-19-581-e4a845fc.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": true,
+      "images": [
+        {
+          "id": "hoat-dong-hoc-sinh-01",
+          "src": "assets/images/crawled/2023-11-03-02-19-581-e4a845fc.jpg",
+          "alt": "Hoạt động nhà trường tại Phìn Hồ",
+          "caption": "Ảnh hoạt động được tải về và lưu nội bộ."
+        }
+      ]
+    },
+    {
+      "id": "ket-noi-cong-dong",
+      "title": "Kết nối phụ huynh và cộng đồng",
+      "slug": "ket-noi-cong-dong",
+      "description": "Những khoảnh khắc phối hợp giữa nhà trường, gia đình và địa phương trong chăm lo giáo dục học sinh.",
+      "coverImage": "assets/images/crawled/z6342929503825-c52a192c24e08de6bca3c1c98af23c13-17c1926f.jpg",
+      "publishedAt": "2026-06-21",
+      "featured": false,
+      "images": [
+        {
+          "id": "ket-noi-cong-dong-01",
+          "src": "assets/images/crawled/z6342929503825-c52a192c24e08de6bca3c1c98af23c13-17c1926f.jpg",
+          "alt": "Sinh hoạt, hội họp của nhà trường và địa phương",
+          "caption": "Ảnh tư liệu đã tải về từ nguồn cũ và sử dụng dưới dạng asset local."
+        }
+      ]
+    }
+  ]
+}

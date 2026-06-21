@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0.0",
+  "categories": [
+    { "id": "tin-nha-truong", "label": "Tin nhà trường" },
+    { "id": "day-va-hoc", "label": "Dạy và học" },
+    { "id": "hoc-sinh", "label": "Hoạt động học sinh" },
+    { "id": "thong-bao", "label": "Thông báo" },
+    { "id": "tuyen-sinh", "label": "Tuyển sinh" }
+  ],
+  "items": [
+    {
+      "id": "san-sang-nam-hoc-moi",
+      "title": "Nhà trường chuẩn bị các điều kiện cho năm học mới",
+      "slug": "san-sang-nam-hoc-moi",
+      "categoryId": "tin-nha-truong",
+      "publishedAt": "2026-06-21",
+      "status": "published",
+      "featured": true,
+      "image": "assets/images/crawled/2023-08-28-02-28-401-fd19a0de.jpg",
+      "excerpt": "Trường PTDTBT Tiểu học Phìn Hồ rà soát cơ sở vật chất, nền nếp bán trú và các điều kiện phục vụ học sinh trước năm học mới.",
+      "contentHtml": "<p>Trước thềm năm học mới, nhà trường tập trung kiểm tra phòng học, khu sinh hoạt, đồ dùng dạy học và phương án phối hợp với phụ huynh. Các nội dung cần bổ sung sẽ được cập nhật sau khi có kế hoạch chính thức từ cấp quản lý.</p>"
+    },
+    {
+      "id": "nen-nep-hoc-tap-tieu-hoc",
+      "title": "Xây dựng nền nếp học tập thân thiện cho học sinh tiểu học",
+      "slug": "nen-nep-hoc-tap-tieu-hoc",
+      "categoryId": "day-va-hoc",
+      "publishedAt": "2026-06-18",
+      "status": "published",
+      "featured": true,
+      "image": "assets/images/crawled/2023-11-03-02-19-581-e4a845fc.jpg",
+      "excerpt": "Giáo viên chú trọng rèn thói quen tự học, giữ gìn lớp học, đọc sách và tham gia hoạt động tập thể phù hợp lứa tuổi.",
+      "contentHtml": "<p>Nền nếp học tập được hình thành từ những việc nhỏ hằng ngày: đi học đúng giờ, chuẩn bị đồ dùng, mạnh dạn trao đổi với thầy cô và giúp đỡ bạn bè. Nhà trường hướng tới môi trường học tập ấm áp, an toàn và tôn trọng từng học sinh.</p>"
+    },
+    {
+      "id": "dong-hanh-cung-phu-huynh",
+      "title": "Tăng cường phối hợp giữa nhà trường và phụ huynh",
+      "slug": "dong-hanh-cung-phu-huynh",
+      "categoryId": "hoc-sinh",
+      "publishedAt": "2026-06-12",
+      "status": "published",
+      "featured": false,
+      "image": "assets/images/crawled/2024-01-30-02-22-461-7a2bf035.jpg",
+      "excerpt": "Sự phối hợp thường xuyên giúp học sinh vùng cao được theo dõi, động viên và hỗ trợ kịp thời trong học tập, sinh hoạt.",
+      "contentHtml": "<p>Nhà trường khuyến khích phụ huynh trao đổi với giáo viên chủ nhiệm về tình hình học tập, sức khỏe và sinh hoạt của con em. Các thông tin chính thức sẽ được cập nhật trên website để phụ huynh dễ tra cứu.</p>"
+    },
+    {
+      "id": "cap-nhat-thong-tin-tuyen-sinh",
+      "title": "Cập nhật thông tin tuyển sinh đầu cấp",
+      "slug": "cap-nhat-thong-tin-tuyen-sinh",
+      "categoryId": "tuyen-sinh",
+      "publishedAt": "2026-06-10",
+      "status": "published",
+      "featured": false,
+      "image": "assets/images/crawled/tuyen-sinh-1-72e35-30daa02a.jpg",
+      "excerpt": "Thông tin tuyển sinh sẽ được nhà trường công bố theo kế hoạch năm học và hướng dẫn của cấp quản lý.",
+      "contentHtml": "<p>Phụ huynh có con trong độ tuổi vào lớp 1 vui lòng theo dõi trang Tuyển sinh và liên hệ trực tiếp nhà trường khi cần được hướng dẫn hồ sơ. Các mốc thời gian cụ thể sẽ được bổ sung sau khi có thông báo chính thức.</p>"
+    }
+  ]
+}
