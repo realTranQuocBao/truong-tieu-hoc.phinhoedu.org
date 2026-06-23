@@ -15,8 +15,8 @@
   },
   "contact": {
     "address": "Bản Seo Lèng 2, xã Phìn Hồ, huyện Sìn Hồ, tỉnh Lai Châu",
-    "phone": "",
-    "email": "",
+    "phone": "-",
+    "email": "hieutruong@truong-tieu-hoc.phinhoedu.org",
     "workingHours": "Thứ Hai - Thứ Sáu, trong giờ hành chính",
     "mapUrl": ""
   },
@@ -43,9 +43,29 @@
   },
   "featuredDocumentId": "quyet-dinh-thanh-lap-truong",
   "quickLinks": [
-    { "id": "tuyen-sinh", "label": "Tuyển sinh", "url": "tuyen-sinh.html", "external": false },
-    { "id": "cong-khai", "label": "Công khai", "url": "cong-khai.html", "external": false },
-    { "id": "tai-lieu", "label": "Tài liệu", "url": "tai-lieu.html", "external": false },
-    { "id": "lien-he", "label": "Liên hệ", "url": "lien-he.html", "external": false }
+    {
+      "id": "tuyen-sinh",
+      "label": "Tuyển sinh",
+      "url": "tuyen-sinh.html",
+      "external": false
+    },
+    {
+      "id": "cong-khai",
+      "label": "Công khai",
+      "url": "cong-khai.html",
+      "external": false
+    },
+    {
+      "id": "tai-lieu",
+      "label": "Tài liệu",
+      "url": "tai-lieu.html",
+      "external": false
+    },
+    {
+      "id": "lien-he",
+      "label": "Liên hệ",
+      "url": "lien-he.html",
+      "external": false
+    }
   ]
 }
